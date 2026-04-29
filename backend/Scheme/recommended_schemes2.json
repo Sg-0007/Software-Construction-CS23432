@@ -1,0 +1,145 @@
+[
+    {
+        "scheme_id": "1466",
+        "scheme_name": "Government Working Womens",
+        "brief_description": "The scheme \"Government Working Womens \" is an initiative by the Social Welfare and Women Empowerment Department, Govt. of Tamil Nadu. The scheme aims to provide safe accommodation facilities to working women who live far away from their families, belonging to lower and middle-income groups.",
+        "eligibility_criteria": "1. The applicant should be a working woman. 1. If the applicant is in Chennai, the income of the applicant should not exceed 25000/- per month. 1. If the applicant is in a district other than Chennai, the income of the applicant should not exceed 15000/-",
+        "state": "Tamil Nadu",
+        "tags": "Accommodation, Food, Hostel, Women",
+        "category": "Housing & Shelter, Social welfare & Empowerment, Women and Child",
+        "llm_score": 0,
+        "pinecone_score": 0.804656863
+    },
+    {
+        "scheme_id": "1008",
+        "scheme_name": "Government Service Home - Tamil Nadu",
+        "brief_description": "The scheme \"Government Service Home\" was launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. The scheme aims to provide institutional care to widows, destitute women, deserted women, adolescent girls and differently-abled women and their children.",
+        "eligibility_criteria": "1. The applicant should be a female. 1. The applicant&#39;s annual income should not exceed  72,000/- (not applicable for differently abled). 1. The age of the applicant should be between 14 to 45 years. 1. The applicant should qualify as one of the following: - Widow. - Destitute Woman. - Deserted Woman. - Adolescent Girl. - Differently Abled Woman. - Woman from Socially and Economically Backward Sections. **NOTE: The women can stay with their male child up to 5th standard and girl child up to 12th standard in the Service Ho",
+        "state": "Tamil Nadu",
+        "tags": "Deserted, Destitute, Education, Food, Girl, Home, Women",
+        "category": "Women and Child, Social welfare & Empowerment, Housing & Shelter",
+        "llm_score": 0,
+        "pinecone_score": 0.792511
+    },
+    {
+        "scheme_id": "1029",
+        "scheme_name": "Scheme of Financial Assistance to Indigent Artists",
+        "brief_description": "The \"Scheme of Financial Assistance to Indigent Artists\" was launched by the Art and Culture Department, Government of Tamil Nadu. The scheme aims to provide financial assistance of 3,000/- to indigent artists are now in indigent circumstances and their depend",
+        "eligibility_criteria": "1. The applicant should be an artist. 1. The applicant should be in indigent circumstances. 1. The age of the applicant should be 58 years or above. 1. The applicant should have professionally served for the enrichment of one or more art disciplines such as music, dance, drama, film folk arts, etc. 1. The annual income of the applicant or their legal spouse should not exceed 12,000",
+        "state": "Tamil Nadu",
+        "tags": "Art, Artist, Financial Assistance, Indigent",
+        "category": "Sports & Culture, Social welfare & Empowerment, Skills & Employment",
+        "llm_score": 0,
+        "pinecone_score": 0.786659241
+    },
+    {
+        "scheme_id": "1650",
+        "scheme_name": "Free Education Scheme",
+        "brief_description": "The scheme provides financial support to Backward, Most Backward Classes, and Denotified Communities students pursuing 3-year undergraduate courses (B.A., B.Sc., B.Com.) in Government and Government Aided Arts and Science Colleges.",
+        "eligibility_criteria": "1. The beneficiary should be a student. 1. The beneficiary should be a resident of Tamil Nadu. 1. The beneficiary should belong to the Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC). 1. The beneficiary should be studying 3-year undergraduate degree (B.A., B.Sc., B.Com.). 1. The beneficiary should be enrolled in a Government or Government Aided Arts and Science College.",
+        "state": "Tamil Nadu",
+        "tags": "Backward Class, Scholarship, Student Finance",
+        "category": "Education & Learning",
+        "llm_score": 0,
+        "pinecone_score": 0.784267426
+    },
+    {
+        "scheme_id": "1633",
+        "scheme_name": "Afforestation Schemes Providing Incentives And Employment To Tribals In Forest",
+        "brief_description": "This scheme offers grants to unemployed tribals for afforestation work, providing them with incentives and employment opportunities in forest operations.",
+        "eligibility_criteria": "- The beneficiary should be a resident of Tamil Nadu. - The beneficiary should belong to the Tribal community. - The beneficiary should be Unemployed.",
+        "state": "Tamil Nadu",
+        "tags": "Afforestation, Employment, Incentives, Tribal Welfare",
+        "category": "Skills & Employment, Agriculture,Rural & Environment",
+        "llm_score": 0,
+        "pinecone_score": 0.777565
+    },
+    {
+        "scheme_id": "189",
+        "scheme_name": "Unemployed Youth Employment Generation Programme",
+        "brief_description": "The Micro, Small and Medium Enterprises Department, Government of Tamil Nadu introduced the scheme \"Unemployed Youth Employment Generation Programme (UYEGP)\" which aims to mitigate the unemployment problems of socially and economically weaker sections of the society.",
+        "eligibility_criteria": "1. The applicant should be a permanent resident of Tamil Nadu. 2. The applicant should be a minimum of 18 years of age; and (a) **for the General category:** maximum of 35 years of age. (b) **for Special category (SC/ ST/MBC/ BC/ Minorities/ Ex-Servicemen/ Differently abled/ Transgender):** maximum of 45 years of age. 3. The applicant should have passed the 8th standard. 4. The family income of the applicant should not exceed 5 lakhs per annum. 5. The applicant #39;s contribution should be 10% of the project cost for the General category; or 5% for the Special category. 6. Entrepreneurship Development Programme (EDP) training is mandatory. 7. Project cost should not be more than 15 lakhs for manufacturing, and 5 lakhs for Trading /",
+        "state": "Tamil Nadu",
+        "tags": "Business, Loan, MSME, Subsidy, Unemployment, Youth",
+        "category": "Business & Entrepreneurship",
+        "llm_score": 0,
+        "pinecone_score": 0.776870728
+    },
+    {
+        "scheme_id": "1374",
+        "scheme_name": "Annal Gandhi Memorial Award",
+        "brief_description": "The scheme provides financial assistance to one boy and one girl from the SC/ST community (Hindu Adi Dravidar) in each district who secure the first rank in plus 2 Public Examinations.",
+        "eligibility_criteria": "- The beneficiary should be a resident of Tamil Nadu. - The beneficiary should be a Student. - The beneficiary should belong to the SC/ST (Hindu Adi Dravidar) community. - The beneficiary must have secured the first rank in plus 2 Public Examinations in their district.",
+        "state": "Tamil Nadu",
+        "tags": "Award, Education, Examination, Tribal Welfare",
+        "category": "Education & Learning",
+        "llm_score": 0,
+        "pinecone_score": 0.776596129
+    },
+    {
+        "scheme_id": "1631",
+        "scheme_name": "Adi Dravidar and Tribal Welfare Department: Incentive/Award of Prizes-For Each Subjects",
+        "brief_description": "The scheme offers cash awards to students from the Adi Dravidar, Tribal communities, and Adi Dravidar converts to Christianity for excelling in academic subjects in 10th and Plus 2 examinations.",
+        "eligibility_criteria": "- The beneficiary should be a Student. - The beneficiary should be a resident of Tamil Nadu. - The beneficiary should belong to the Adi Dravidar/Tribal/Adi Dravidar converted to Christianity community. - The beneficiary must have passed the 10th or Plus 2 examination.",
+        "state": "Tamil Nadu",
+        "tags": "Adi Dravidar, Education, Incentive, Prizes, Students, Tribal Welfare",
+        "category": "Education & Learning",
+        "llm_score": 0,
+        "pinecone_score": 0.773658752
+    },
+    {
+        "scheme_id": "1150",
+        "scheme_name": "Scholarships to Students Studying in Central Government Institution like IIT, IIM, IIIT, NIT and Central Universities",
+        "brief_description": "The scholarship provides financial assistance to students from Tamil Nadu's BC, MBC, and DNC communities pursuing UG/PG courses at premier Central Government institutions like IITs, IIMs, IIITs, NITs, and Central Universities.",
+        "eligibility_criteria": "- The beneficiary should be a student. - The beneficiary should be a resident of Tamil Nadu. - The beneficiary should belong to the Backward Classes (BC)/ Most Backward Classes (MBC)/ Denotified Communities (DNC). - The beneficiary should be pursuing UG/PG courses in IIT/ IIM/ IIIT/ NIT and Central Universities. - The beneficiary #39;s parental annual income should not exceed 2,50,00",
+        "state": "Tamil Nadu",
+        "tags": "Education, Minority Welfare, Scholarship, Student Finance",
+        "category": "Education & Learning",
+        "llm_score": 0,
+        "pinecone_score": 0.773029208
+    },
+    {
+        "scheme_id": "1638",
+        "scheme_name": "Free Education Scholarship for Professional Courses (Engineering, Medical, Agriculture, Veterinary, and Law)",
+        "brief_description": "This scheme provides full coverage of tuition fees, special fees, and examination fees for Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC) students pursuing professional courses.",
+        "eligibility_criteria": "1. The beneficiary should be a student. 1. The beneficiary should be a resident of Tamil Nadu. 1. The beneficiary should belong to the Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC). 1. The beneficiary should be pursuing a professional course in a Government/Government Aided or Self-Financing college. 1. The beneficiarys family income should not exceed 1,00,000/- annually. 1. There should be no graduate in t",
+        "state": "Tamil Nadu",
+        "tags": "Education, Minority Welfare, Scholarship",
+        "category": "Education & Learning",
+        "llm_score": 0,
+        "pinecone_score": 0.768051147
+    },
+    {
+        "scheme_id": "994",
+        "scheme_name": "Differently Abled Pension Scheme",
+        "brief_description": "The 'Differently Abled Pension Scheme' aims to provide a pension of 1,000/- to differently-abled persons with disability level 40% and above. The scheme provides other benefits every year during the Pongal and Deepavali festival saree, dhoti and a nutritious meal is supplied through Angan",
+        "eligibility_criteria": "1. The applicant should be 18 years or above in age. 1. The applicant should have a disability of 40% or above. 1. The applicant should not be employed in government or government-affiliated organizations. 1. If the applicant is employed permanently in the private sector institutions and drawing monthly salaries, OR if the applicant is self-employed, his/her income should not exceed  3,00,000/- per an",
+        "state": "Tamil Nadu",
+        "tags": "Clothes, Differently-abled, Financial Assistance, Meal, Pension, Ration",
+        "category": "Social welfare & Empowerment",
+        "llm_score": 0,
+        "pinecone_score": 0.767562866
+    },
+    {
+        "scheme_id": "1387",
+        "scheme_name": "Postmatric Scholarship",
+        "brief_description": "The scheme offers financial assistance to Backward Classes (BC), Most Backward Classes (MBC) students studying in 11th and 12th standard in English Medium schools. It covers tuition fees and examination fees to promote education among students from economically weaker backgrounds.",
+        "eligibility_criteria": "- The beneficiary should be a student. - The beneficiary should be a resident of Tamil Nadu. - The beneficiary should belong to the Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC). - Parents #39; income should not exceed 1,00,000/- (for Backward Classes (BC) students). - There should be no graduate in the family (for Backward Classes (BC) students). - The beneficiary should be studying in 11th or 12th standard in an English medium school.",
+        "state": "Tamil Nadu",
+        "tags": "Education, Minority Welfare, Postmatric, Scholarship",
+        "category": "Education & Learning",
+        "llm_score": 0,
+        "pinecone_score": 0.765182376
+    },
+    {
+        "scheme_id": "1237",
+        "scheme_name": "Farmers Interest Group (FIG)",
+        "brief_description": "The Farmers Interest Group (FIG) scheme supports every group of 15 farmers with grants for agricultural development. The scheme offers assistance for office equipment, training, ID cards, and district-leve",
+        "eligibility_criteria": "- The beneficiary should be a Farmer. - The beneficiary should be a resident of Tamil Nadu. - The beneficiary should be part of a Farmers group of 15 farm",
+        "state": "Tamil Nadu",
+        "tags": "Agriculture, Farmer, Farmers Interest Group, FIG",
+        "category": "Agriculture,Rural & Environment",
+        "llm_score": 0,
+        "pinecone_score": 0.76493454
+    }
+]

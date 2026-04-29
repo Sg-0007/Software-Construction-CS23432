@@ -1,0 +1,14 @@
+# Python / Backend Secrets
+.env
+.venv/
+__pycache__/
+*.db
+user_details.json
+search_errors.log
+
+# Flutter / Frontend
+build/
+.dart_tool/
+.pub-cache/
+.packages
+*.log
